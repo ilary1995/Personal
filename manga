@@ -1,0 +1,17 @@
+{
+  "title": "Noragami",
+  "description": "Hiyori Iki è una normale studentessa di scuola media, almeno fino a quando viene investita da un autobus mentre cerca di salvare la vita di un ragazzo appena incrociato per strada di nome Yato. Questo incidente la costringerà ad iniziare una vita non poco bizzarra.",
+  "artist": "ADACHI Toka",
+  "author": "ADACHI Toka",
+  "cover": "https://static.wikia.nocookie.net/noragami/images/a/af/US_Volume_11.png/revision/latest?cb=20210319062202",
+  "chapters": {
+    "40": {
+      "title": "Per favore, (non) ascoltare la mia preghiera",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/rEh3gbV/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
