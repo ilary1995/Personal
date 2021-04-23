@@ -12,6 +12,15 @@
         "AME": "/proxy/api/imgur/chapter/bJghrvw/"
       },
       "last_updated": "1616368746"
+    },
+    "chapters": {
+    "166": {
+      "title": "Vera identità",
+      "volume": "17",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/tS7l7n4/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
