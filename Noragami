@@ -1,0 +1,73 @@
+{
+  "title": "Noragami",
+  "description": "Yato is a minor god whose dream is to have a lot of followers worshiping him and praying to him. Unfortunately, his dream is far from coming true since he doesn't even have a single shrine dedicated to him. To make things worse, the only partner he had to help him solve people's problems, had just quit the job. His godly existence and luck just might change after he stumbles upon Iki Hiyori and saves her life—a feat which also leaves her in quite a predicament as she is stuck with him until her problem gets resolved. Together with Hiyori and his new partner/weapon Yukine, Yato will do everything he can to gain fame, recognition and just maybe, one shrine dedicated to him.",
+  "artist": "ADACHI Toka",
+  "author": "ADACHI Toka",
+  "cover": "https://comicvine1.cbsistatic.com/uploads/scale_large/11130/111303210/7862835-23.jpg",
+  "chapters": {
+    "1": {
+      "title": "Persona con la tuta",
+      "volume": "1",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/dfcqLOM/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Gatti domestici, dei selvaggi e code",
+      "volume": "1",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/3mZMtZH/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Sembra neve",
+      "volume": "1",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/1lVhOHQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Alcune volontà divine",
+      "volume": "2",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/vUdB1BF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Linea di confine",
+      "volume": "2",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/yI1wnB3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Una persona spaventosa",
+      "volume": "2",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/lYlK049/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Crepuscolo",
+      "volume": "2",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/vhyH1PV/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Crepuscolo",
+      "volume": "3",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/vhyH1PV/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
