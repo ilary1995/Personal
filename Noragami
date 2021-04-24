@@ -62,10 +62,362 @@
       "last_updated": "1616368746"
     },
     "8": {
-      "title": "Crepuscolo",
+      "title": "La cupa giornata dei vagabondi",
       "volume": "3",
       "groups": {
-        "AME": "/proxy/api/imgur/chapter/vhyH1PV/"
+        "AME": "/proxy/api/imgur/chapter/o2vrDNa/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Una persona detestabile",
+      "volume": "3",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/ICuiPWk/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Oltrepassare la linea",
+      "volume": "3",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/90ixDYw/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11": {
+      "title": "Nome",
+      "volume": "3",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/20RZmqu/"
+      },
+      "last_updated": "1616368746"
+    },
+    "12": {
+      "title": "Uccidere, non uccidere",
+      "volume": "4",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/aLEqLHe/"
+      },
+      "last_updated": "1616368746"
+    },
+    "13": {
+      "title": "Presagio",
+      "volume": "4",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/QvRqtoO/"
+      },
+      "last_updated": "1616368746"
+    },
+    "14": {
+      "title": "I suoi ricordi",
+      "volume": "4",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/IJAAqeT/"
+      },
+      "last_updated": "1616368746"
+    },
+    "15": {
+      "title": "Cose appassite",
+      "volume": "4",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/xkfeO9A/"
+      },
+      "last_updated": "1616368746"
+    },
+    "16": {
+      "title": "L'inferno",
+      "volume": "5",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/28oKIej/"
+      },
+      "last_updated": "1616368746"
+    },
+    "17": {
+      "title": "Bramosia per la fiducia di qualcuno",
+      "volume": "5",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/SWUf9Ci/"
+      },
+      "last_updated": "1616368746"
+    },
+    "18": {
+      "title": "Lama nuda",
+      "volume": "5",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/CIHJbvF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "19": {
+      "title": "Un desiderio",
+      "volume": "5",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/JvvJdBo/"
+      },
+      "last_updated": "1616368746"
+    },
+    "20: {
+      "title": "Una benedizione e una maledizione",
+      "volume": "6",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/iBxrHbX/"
+      },
+      "last_updated": "1616368746"
+    },
+    "21: {
+      "title": "Non lasciarmi, resta con me",
+      "volume": "6",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/ttb6YVK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "22: {
+      "title": "Ciò che deve essere fatto",
+      "volume": "6",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1616368746"
+    },
+    "23: {
+      "title": "Luce guida",
+      "volume": "6",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/FqLtYHW/"
+      },
+      "last_updated": "1616368746"
+    },
+    "24: {
+      "title": "Per sempre",
+      "volume": "7",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/fAZEHph/"
+      },
+      "last_updated": "1616368746"
+    },
+    "25: {
+      "title": "Una possessione divina",
+      "volume": "7",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/168XtBg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "26: {
+      "title": "Come venerare le divinità",
+      "volume": "7",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/4xLDd3B/"
+      },
+      "last_updated": "1616368746"
+    },
+    "27: {
+      "title": "Lavoro e Karma",
+      "volume": "7",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/VgWVytC/"
+      },
+      "last_updated": "1616368746"
+    },
+    "28: {
+      "title": "Dio dele calamità",
+      "volume": "8",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/N3bzGiZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "29: {
+      "title": "Lo stato dei tre regni",
+      "volume": "8",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/BdQdpM9/"
+      },
+      "last_updated": "1616368746"
+    },
+    "30: {
+      "title": "Il suono del legame reciso",
+      "volume": "8",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/GbmqRyK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "31: {
+      "title": "Tale padre, tale figlio",
+      "volume": "8",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/7xlwEkl/"
+      },
+      "last_updated": "1616368746"
+    },
+    "32: {
+      "title": "Colei che invita",
+      "volume": "9",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/3UQ6lp9/"
+      },
+      "last_updated": "1616368746"
+    },
+    "33: {
+      "title": "Una forte volontà",
+      "volume": "9",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/uQiu4jU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "34: {
+      "title": "Desiderio Prioritario",
+      "volume": "9",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/zmIpuWG/"
+      },
+      "last_updated": "1616368746"
+    },
+    "35: {
+      "title": "Morte",
+      "volume": "9",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/LWuWfS9/"
+      },
+      "last_updated": "1616368746"
+    },
+    "36: {
+      "title": "Maledizione calamitosa",
+      "volume": "10",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/dhKzlCC/"
+      },
+      "last_updated": "1616368746"
+    },
+    "37: {
+      "title": "Ascolta la mia voce",
+      "volume": "10",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/I4XGjgy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "38: {
+      "title": "Una promessa da ricordare",
+      "volume": "10",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/KMqgoX4/"
+      },
+      "last_updated": "1616368746"
+    },
+    "39: {
+      "title": "Dei giorni sono andati e dei giorni arriveranno",
+      "volume": "10",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/EoyPc8B/"
+      },
+      "last_updated": "1616368746"
+    },
+    "40: {
+      "title": "Dio per favore, (Non) ascoltare la mia preghiera",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/pXck1e5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "41: {
+      "title": "Creiamo dei ricordi",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/Xwd5At3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "42: {
+      "title": "Il messaggero del disastro",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/S51xKRj/"
+      },
+      "last_updated": "1616368746"
+    },
+    "43: {
+      "title": "Un segreto custodito",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/53JfIWW/"
+      },
+      "last_updated": "1616368746"
+    },
+    "44: {
+      "title": "Incrociando le spade, incrociando i destini",
+      "volume": "12",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/lBFvKyS/"
+      },
+      "last_updated": "1616368746"
+    },
+    "45: {
+      "title": "Commosso dal suo passato",
+      "volume": "12",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/zLSOGzM/"
+      },
+      "last_updated": "1616368746"
+    },
+    "46: {
+      "title": "Dovremmo giocare",
+      "volume": "12",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/MGm0zqg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "47: {
+      "title": "Taboo",
+      "volume": "12",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/w4Amn7L/"
+      },
+      "last_updated": "1616368746"
+    },
+    "48: {
+      "title": "Tu, colui che amo",
+      "volume": "13",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/Kld27Lf/"
+      },
+      "last_updated": "1616368746"
+    },
+    "49: {
+      "title": "Resistenza",
+      "volume": "13",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/ZjzxMGK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "50: {
+      "title": "Faccia a faccia",
+      "volume": "13",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/GF3be7d/"
+      },
+      "last_updated": "1616368746"
+    },
+    "51: {
+      "title": "Salvezza",
+      "volume": "13",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/jKRJgwy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "52: {
+      "title": "Riva vicina e riva lontana",
+      "volume": "14",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
