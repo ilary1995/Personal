@@ -13,7 +13,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "166": {
       "title": "Vera identità",
       "volume": "17",
@@ -22,7 +21,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "166": {
       "title": "Segni",
       "volume": "17",
@@ -31,7 +29,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "168": {
       "title": "Crocevia",
       "volume": "17",
@@ -40,7 +37,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "169": {
       "title": "there was a silence",
       "volume": "17",
@@ -49,7 +45,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "170": {
       "title": "dieci giorni dopo...",
       "volume": "17",
@@ -58,7 +53,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "171": {
       "title": "Fronte e retro",
       "volume": "17",
@@ -67,7 +61,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "172": {
       "title": "L'avvertimento di G",
       "volume": "18",
@@ -76,7 +69,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "173": {
       "title": "ladro? fanstasma? Innocence?",
       "volume": "18",
@@ -85,7 +77,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "174": {
       "title": "L'investigatore posseduto",
       "volume": "18",
@@ -94,7 +85,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "175": {
       "title": "Il ladro bambino",
       "volume": "18",
@@ -103,7 +93,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "176": {
       "title": "Battaglia dentro la barriera mistica",
       "volume": "18",
@@ -112,7 +101,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "177": {
       "title": "lonely boy",
       "volume": "18",
@@ -121,7 +109,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "178": {
       "title": "Chiedo scusa",
       "volume": "18",
@@ -130,7 +117,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "179": {
       "title": "Timothy innocence",
       "volume": "18",
@@ -139,7 +125,6 @@
       },
       "last_updated": "1616368746"
     },
-    "chapters": {
     "180": {
       "title": "Tsukikami livello <due>",
       "volume": "18",
@@ -299,6 +284,6 @@
         "AME": "/proxy/api/imgur/chapter/IzQ3szg/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
