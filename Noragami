@@ -20,22 +20,6 @@
         "AME": "/proxy/api/imgur/chapter/Xwd5At3/"
       },
       "last_updated": "1616368746"
-    },
-    "42": {
-      "title": "Il messaggero del disastro",
-      "volume": "17",
-      "groups": {
-        "Planet Manga": "/proxy/api/imgur/chapter/S51xKRj/"
-      },
-      "last_updated": "1616368746"
-    },
-    "43": {
-      "title": "Un segreto custodito",
-      "volume": "17",
-      "groups": {
-        "Planet Manga": "/proxy/api/imgur/chapter/53JfIWW/"
-      },
-      "last_updated": "1616368746"
     }
   }
 }
