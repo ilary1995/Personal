@@ -1,0 +1,41 @@
+{
+  "title": "Noragami",
+  "description": "",
+  "artist": "ADACHI Toka",
+  "author": "ADACHI Toka",
+  "cover": "https://comicvine1.cbsistatic.com/uploads/scale_large/11130/111303210/7862835-23.jpg",
+  "chapters": {
+    "40": {
+      "title": "Dio per favore, (Non) ascoltare la mia preghiera",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/pXck1e5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "41": {
+      "title": "Creiamo dei ricordi",
+      "volume": "11",
+      "groups": {
+        "AME": "/proxy/api/imgur/chapter/Xwd5At3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "42": {
+      "title": "Il messaggero del disastro",
+      "volume": "17",
+      "groups": {
+        "Planet Manga": "/proxy/api/imgur/chapter/S51xKRj/"
+      },
+      "last_updated": "1616368746"
+    },
+    "43": {
+      "title": "Un segreto custodito",
+      "volume": "17",
+      "groups": {
+        "Planet Manga": "/proxy/api/imgur/chapter/53JfIWW/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
